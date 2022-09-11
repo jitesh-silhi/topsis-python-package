@@ -9,7 +9,7 @@ On your terminal run the command below:<br>
 use the package in source file as follows:<br>
 
 ```
-tbj=__import__("topsis)
+tbj=__import__("topsis")
 tbj.get_topsis_result()
 ```
 
